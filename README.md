@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Arif 👋
+# Hi, I'm Mohammad Arif
 
 I'm a passionate web developer and designer, specializing in creating beautiful, user-friendly websites that drive results. With a focus on front-end development, I enjoy bringing creative ideas to life through interactive and responsive design. Proficient in HTML, CSS, JavaScript, and frameworks like React, I'm always eager to learn and implement the latest technologies to enhance user experiences.
 
